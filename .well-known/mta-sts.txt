@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
-max_age: 86401
+max_age: 86402
 mx: alt1.aspmx.l.google.com
 mx: alt2.aspmx.l.google.com
 mx: aspmx.l.google.com
